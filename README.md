@@ -1,3 +1,6 @@
+![logo](./assets/logo.png)
+
+---
 
 # 🌟 ¿Tienes una Idea de Negocio?
 
