@@ -4,7 +4,8 @@
 
 # 🌟 ¿Tienes una Idea de Negocio?
 
-## _Soy Hararec, un freelancer de Apps Móviless ¡Y yo te ayudaré!_ 🚀
+## _Soy Hararec, un freelancer de Apps Móviles y APIs_ 
+## ¡Yo te ayudaré! 🚀
 
 Diseño y desarrollo soluciones digitales personalizadas para impulsar el crecimiento de tu negocio, proyecto o empresa. Ya sea que estés comenzando o buscando optimizar procesos, ofrezco tecnología eficiente, escalable y adaptada a tus necesidades. 💻📈
 
@@ -20,12 +21,12 @@ Diseño y desarrollo soluciones digitales personalizadas para impulsar el crecim
 
 ## 💻 Tecnologías y Herramientas Favoritas 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"/>
-    <img src="https://img.shields.io/badge/-Django%20REST%20Framework-092E20?logo=django&logoColor=white&style=flat" alt="Django REST Framework"/>
-    <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" alt="NestJS"/>
-    <img src="https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white&style=flat" alt="Gin"/>
-    <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" alt="Next.js"/>
     <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat" alt="React Native"/>
+    <img src="https://img.shields.io/badge/-Django%20REST%20Framework-092E20?logo=django&logoColor=white&style=flat" alt="Django REST Framework"/>
+    <img src="https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white&style=flat" alt="Gin"/>
+    <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" alt="NestJS"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"/>
+    <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" alt="Next.js"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" alt="AWS"/>
