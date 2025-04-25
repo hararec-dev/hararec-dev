@@ -25,8 +25,9 @@ Diseño y desarrollo soluciones digitales personalizadas para impulsar el crecim
     <img src="https://img.shields.io/badge/-Django%20REST%20Framework-092E20?logo=django&logoColor=white&style=flat" alt="Django REST Framework"/>
     <img src="https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white&style=flat" alt="Gin"/>
     <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" alt="NestJS"/>
-    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"/>
     <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat" alt="C++"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" alt="AWS"/>
