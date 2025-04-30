@@ -4,7 +4,7 @@
 
 # 🌟 ¿Tienes una Idea de Negocio?
 
-## _Soy Hararec, un freelancer de Apps Móviles y APIs_ 
+## _Soy Hararec, un freelancer de Apps Móviles_ 
 ## ¡Yo te ayudaré! 🚀
 
 Diseño y desarrollo soluciones digitales personalizadas para impulsar el crecimiento de tu negocio, proyecto o empresa. Ya sea que estés comenzando o buscando optimizar procesos, ofrezco tecnología eficiente, escalable y adaptada a tus necesidades. 💻📈
