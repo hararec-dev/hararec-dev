@@ -12,9 +12,10 @@ Diseño y desarrollo soluciones digitales personalizadas para impulsar el crecim
 
 <div align="center">
 
-## 📷 Mis redes sociales  
-[![Follow on X](https://img.shields.io/badge/Follow_on_X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hararec_dev)
+## 💬 ¡Hablemos!  
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hararec-dev/)
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hararecdev@gmail.com)
+[![Follow on X](https://img.shields.io/badge/Follow_on_X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hararec_dev)
 
 ---
 
