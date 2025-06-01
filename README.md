@@ -4,7 +4,7 @@
 
 # **Hararec Dev**  
 ## 💻 **Desarrollador de Aplicaciones Móviles y Web** 
-[![¡Visita mi web!](https://img.shields.io/badge/¡Visita_mi_sitio_web!-2A5C82?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hararecdev.com)
+[![¡Visita mi web!](https://img.shields.io/badge/¡Visita_mi_sitio_web!-D14836?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hararecdev.com)
 
 ---
 
@@ -22,7 +22,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hararec-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hararecdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hararecdev@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hararec_dev)
 
 </div>
