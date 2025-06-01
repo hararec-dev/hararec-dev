@@ -4,7 +4,7 @@
 
 # **Hararec Dev**  
 ## 💻 **Desarrollador de Aplicaciones Móviles y Web** 
-[![¡Visita mi web!](https://img.shields.io/badge/¡Visita_mi_sitio_web!-6C86B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hararecdev.com)
+[![¡Visita mi web!](https://img.shields.io/badge/¡Visita_mi_sitio_web!-2A5C82?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hararecdev.com)
 
 ---
 
