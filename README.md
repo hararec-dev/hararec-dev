@@ -3,21 +3,24 @@
 ---
 
 # **Hararec Dev**  
-## 🧑🏻‍💻 **Desarrollador de Apps Móviles y Web** 
+## 🧑🏻‍💻 **Desarrollador Full-Stack** 
 [![¡Visita mi web!](https://img.shields.io/badge/Visita_mi_sitio_web-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hararecdev.com)
 
 ---
 
-¡Hola! Soy Hararec, un desarrollador Full-Stack con más de 3 años de experiencia en el desarrollo de aplicaciones móviles y web. Me especializo en ayudar a Emprendedores y PyMEs a digitalizar sus procesos y superar las barreras entre una gran visión de negocio y la realidad de un producto digital.
+¡Hola! Soy Hararec, un desarrollador Full-Stack con más de 4 años de experiencia. Me especializo en ayudar a Emprendedores y PyMEs a digitalizar sus procesos y superar las barreras entre una gran visión de negocio y la realidad de un producto digital.
 
 
 ## 🚀 **Proyectos Destacados**  
 | Proyecto | Tech Stack | Descripción |  
 |----------|------------|-------------|  
-| [**Ledger-A**](https://github.com/hararec-dev/ledger-a) | React Native, SQLite, Yarn | Ledger‑A te ayuda a llevar un control preciso y a tomar decisiones financieras más inteligentes. |  
-| [**Portafolio-Web**](https://github.com/hararec-dev/hararecdev) | React, Vite, Tailwindcss, Yarn | Portafolio web, para explorar cómo he ayudado a negocios como el tuyo a digitalizar procesos.  |  
+| [**App móvil - Ledger-A**](https://github.com/hararec-dev/ledger-a) | React Native, SQLite, Yarn | Ayuda a llevar un control financiero y a tomar decisiones más inteligentes. |  
+| [**Scraping Facultad de Ciencias UNAM**](https://github.com/hararec-dev/tobe-adjunct-again) | Python, BeautifulSoup, Docker, MongoDB | Recopilación de datos automatizada y envío masivo de emails |  
+| [**Portafolio-Web**](https://github.com/hararec-dev/hararecdev) | React, Vite, Tailwindcss, Yarn | Explora cómo he ayudado a negocios como el tuyo a digitalizar procesos.  |  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hararec-dev&layout=compact" alt="hararec-dev" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hararec-dev&layout=compact" alt="Top Languages - hararec-dev" />
+</div>
 
 ## 💬 ¡Conectemos!  
 
