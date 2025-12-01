@@ -3,7 +3,7 @@
 ---
 
 # **Hararec Dev** 
-## 🧑🏻‍💻 **Desarrollador Full-Stack & Emprendedor** 
+## 🧑🏻‍💻 **Desarrollador Full-Stack** 
 [![¡Visita mi web!](https://img.shields.io/badge/Visita_mi_sitio_web-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hararecdev.com)
 
 ---
